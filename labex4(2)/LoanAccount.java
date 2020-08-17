@@ -8,7 +8,7 @@ package com.loan;
 import com.transact.*;
 /**
  *
- * @author SANGEETHA
+ * @author PAVITHRA.T
  */
 public class LoanAccount {
 
