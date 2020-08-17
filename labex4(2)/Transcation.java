@@ -7,7 +7,7 @@ package com.transact;
 
 /**
  *
- * @author SANGEETHA
+ * @author PAVITHRA.T
  */
 public class Transcation {
 
